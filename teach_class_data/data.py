@@ -47,8 +47,6 @@ def turn_cel(col):
     for x in range(len(col)):
         s.append(col[x].value)
     return s
-
-
 # 写入数据
 def write_exl(col1,col2,col3,col4,col5):
 
